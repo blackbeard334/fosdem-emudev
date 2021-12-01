@@ -1,4 +1,4 @@
-# FOSDEM 22 - Emulator Development Room CFP
+# [FOSDEM 22 - Emulator Development Room CFP](https://lists.fosdem.org/pipermail/fosdem/2021q4/003293.html)
 Hear Ye, Hear Ye!
 The Call for papers for the FOSDEM emulator development room is hereby open!
 
